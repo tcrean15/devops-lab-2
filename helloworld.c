@@ -2,7 +2,7 @@
 
 int main() {
     
-        printf("Welcome");
+        printf("This is another string!");
     
     
     return 0;
