@@ -1,15 +1,10 @@
-// Simple C program to display "Hello World"
-
-// Header file for input output functions
 #include <stdio.h>
 
-// main function -
-// where the execution of program begins
-int main()
-{
-
-	// prints hello world
-	printf("Hello World");
-
-	return 0;
+int main() {
+    // Use a for loop to iterate from 1 to 10
+    for (int i = 1; i <= 10; i++) {
+        printf("%d\n", i); // Print the current value of 'i'
+    }
+    
+    return 0;
 }
